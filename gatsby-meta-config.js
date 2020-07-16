@@ -10,7 +10,7 @@ module.exports = {
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
-    instagram: `Dawn.0820`,
+    instagram: `dawn.0820`,
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
