@@ -5,12 +5,8 @@ module.exports = {
   introduction: `이것저것`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
-    github: `Dawn0820`, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
-    instagram: `dawn.0820`,
+    github: `Dawn0820`, // GitHub account
+    instagram: `dawn.0820`, // Instagram account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
